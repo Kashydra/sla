@@ -1,8 +1,22 @@
 {
-  "keys": [
-    "ABC123",
-    "TESTKEY",
-    "MINHAKEY",
-    "KEYVIP"
-  ]
+  "users": {
+    "ABC-123-XYZ": {
+      "status": "active",
+      "expires": "2026-12-31",
+      "note": "Plano Vitalicio - VIP",
+      "hwid_lock": "OFF"
+    },
+    "GAMES-999-PRO": {
+      "status": "active",
+      "expires": "2025-05-15",
+      "note": "Assinatura Mensal - Usuario: Joao",
+      "hwid_lock": "ON"
+    },
+    "TESTE-000-FREE": {
+      "status": "expired",
+      "expires": "2023-01-01",
+      "note": "Chave de teste expirada",
+      "hwid_lock": "OFF"
+    }
+  }
 }
