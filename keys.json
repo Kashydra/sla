@@ -6,6 +6,12 @@
       "note": "Plano Vitalicio - VIP",
       "hwid_lock": "OFF"
     },
+    "admin": {
+      "status": "active",
+      "expires": "2026-12-31",
+      "note": "Plano Vitalicio - VIP",
+      "hwid_lock": "OFF"
+    },
     "GAMES-999-PRO": {
       "status": "active",
       "expires": "2025-05-15",
